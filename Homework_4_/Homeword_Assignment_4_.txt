@@ -1,0 +1,24 @@
+Homework #4 
+
+Problem 1:
+
+Implement heap sort by using the bottom-up insertion 
+method. Add this sort to your sorting framework. Evaluate
+its performance in terms of the numbers of comparisons and
+exchanges, and compare it to the performance of the two
+advanced sorting methods that you have previously implemented.
+Submit your report with detailed empirical results and a
+thorough explanation of these results. Which of the three
+advanced sorting method is the best choice for a) ordered
+data, b) data in reverse order, and c) average data for data 
+sets you have experimented with.
+
+Problem 2: (This is not a programming project) Assume that
+keys arrive for insertion in an initially empty AVL tree in 
+the following order: 10, 20, 30, 25, 27, 7, 4, 23, 26, 21.  
+Build the resulting tree showing each step of the insertion
+process. Next, delete 30, 27 and 26. Show the resulting tree 
+after every step. Discuss its fullness and compare it to the
+binary tree with an ordering property resulting from exactly 
+the same tree operations.
+ 
