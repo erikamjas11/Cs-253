@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=problem2
+comment1.params=i
+comment1.target=int\ fact(int)
+comment2.params=list\ goal\ low\ high
+comment2.target=boolean\ binary(int[],\ int,\ int,\ int)
+comment3.params=i
+comment3.target=int\ fib(int)
+comment4.params=args
+comment4.target=void\ main(java.lang.String[])
+numComments=5
