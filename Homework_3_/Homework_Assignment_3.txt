@@ -1,0 +1,20 @@
+CS 253  Homework # 3
+
+Problem 1.
+
+Write a program that performs the following two tasks:
+
+1.	Reads an arithmetic expression in an infix form, stores it in a queue (infix queue) and converts it to a postfix form (saved in a postfix queue).  
+2.	Evaluates the postfix expression.
+
+Use the algorithms described in class/ lecture notes. Use linked lists to implement the Queue and Stack ADTs. Using Java built-in classes will result in 0 points. You must use your own Stack and Queue classes (my code is a good starting point). Submit the code + example runs to validate your code. Submit UML chart to show the program design. 
+
+Problem 2.
+
+Given the following postorder and inorder traversals of a binary tree, draw the tree:
+   
+   Postorder:  A   B   C   D   E   F   I   K   J   G   H
+
+   Inorder:    C   B   A   E   D   F   H   I   G   K   J
+
+Explain your answer in a systematic and recursive fashion.
