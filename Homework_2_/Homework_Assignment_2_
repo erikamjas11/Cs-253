@@ -1,0 +1,28 @@
+CS 253:  Homework # 2
+
+Part 1:
+
+Consider the following loop construct:
+
+X := 1
+repeat
+   Y := N
+   while Y > 0 do
+
+     . . .          // something (the ellipsis)
+
+     Y := Y - 1
+   endwhile
+   X := X + X
+until X > N * N
+
+Categorize its Big-O efficiency. Also, assume that the statements represented by the ellipsis take 2 milliseconds to execute. Express in milliseconds the amount of time this construct would require to execute for N = 1000.
+
+Part 2:
+
+Extend your sorting framework with two advanced sorting methods of your choice: (Shell Sort OR Radix Sort) AND (Merge Sort OR Quick Sort). If you choose Shell Sort, experiment with different incremental sequences to see how they affect the algorithm's run time efficiency (count the number of comparisons and exchanges). If you choose to implement Radix Sort, answer the following question as well:  Can you write a version of Radix Sort for String objects? If yes, explain how. If not, explain why.
+
+Follow the same design methodology as in homework 1: experiment with the EXACT SAME prototype data first (all data is already stored in text files), report the results in the same table (use the one from hw1 and extend it), then experiment with EXACT SAME large data sets (already stored in text files), report the results in hw1 table by extending it).
+
+Compare the advanced sorting methods that you have implemented to elementary sorts from homework 1. Explain your findings. Remember, you are graded on how well you understand theory and concepts, NOT how sophisticated your code is -- this is NOT a programming course, but we do need a tool to study algorithms and 
+data structures. 
